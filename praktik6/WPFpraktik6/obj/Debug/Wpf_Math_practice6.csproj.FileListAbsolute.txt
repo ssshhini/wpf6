@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\bin\Debug\Wpf_Math_practice6.exe.config
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\bin\Debug\Wpf_Math_practice6.exe
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\bin\Debug\Wpf_Math_practice6.pdb
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\obj\Debug\Wpf_Math_practice6.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\obj\Debug\App.g.cs
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\obj\Debug\Wpf_Math_practice6_MarkupCompile.cache
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\obj\Debug\Wpf_Math_practice6_MarkupCompile.lref
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\obj\Debug\MainWindow.baml
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\obj\Debug\Wpf_Math_practice6.g.resources
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\obj\Debug\Wpf_Math_practice6.Properties.Resources.resources
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\obj\Debug\Wpf_Math_practice6.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\obj\Debug\Wpf_Math_practice6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\obj\Debug\Wpf_Math_practice6.exe
+C:\Users\Admin\Downloads\praktik6\Wpf_Math_practice6\obj\Debug\Wpf_Math_practice6.pdb
